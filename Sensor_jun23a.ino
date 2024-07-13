@@ -1,4 +1,4 @@
-// Library dht22 dan jaringan WiFi
+// Library dht dan jaringan WiFi
 #include "DHT.h"
 #include <WiFi.h>
 #include <WiFiClient.h>
